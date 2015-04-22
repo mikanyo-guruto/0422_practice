@@ -6,7 +6,7 @@
 </head>
 <body>
     <?php
-    print('現在は、' . date('G時 i分 s秒') . 'です');
+    print('現在は、' . date('G:i:s') . 'です');
     ?>
 </body>
 </html>
